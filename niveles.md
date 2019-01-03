@@ -45,7 +45,7 @@ Para promover la transparencia en el equipo, compartimos para su consulta y vali
 1. Debe ser un miembro activo en la comunidad tecnológica de su elección.
 
 Certificaciones:
-1. 1 de Nivel 1.
+1. 1 de [Nivel 1](certificaciones-utiles.md#nivel-1).
 
 ## Nivel 3: Desarrollador de Software Senior
 1. C# para backend. ASP .NET MVC, WebAPI, LinQ y Entity Framework.
