@@ -81,6 +81,7 @@ Certificaciones:
     1. Manual de usuario
     1. Minutas de reunión
     1. Informes
+    1. Puede definir y documentar la arquitectura de la solución
 1. Capacidad para obtener, interpretar, asignar y supervisar requerimientos funcionales. Facilitar la creación de tareas técnicas y convertirlas en una aplicación.
 1. Puede trabajar sin supervisión. Puede liderar un equipo.
 1. Le responde principalmente al cliente y al equipo.
@@ -119,6 +120,7 @@ Certificaciones requeridas:
     1. Gestión de pruebas.
     1. Gestión de CI / CD
 1. Documentación, siguiendo los estándares de la empresa o del cliente.
+1. Capacidad para evaluar arquitecturas y brindas opinión acerca de la misma.
 1. Capacidad para administrar un proyecto de desarrollo de software y cumplir con los objetivos trazados.
 1. Le responde principalmente al cliente y al equipo. Facilidad para tratar diferentes temas con Gerentes y superiores.
 1. Puede brindar asesoría al área de tecnología y negocios basada en su experiencia.
