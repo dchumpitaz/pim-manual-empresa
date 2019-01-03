@@ -25,6 +25,6 @@ Está formado por los diferentes miembros del equipo quienes pueden brindar los 
 1. [Desarrollador de Software Senior](niveles.md#nivel-3-desarrollador-de-software-senior)
 1. [Consultor en Desarrollo de Software](niveles.md#nivel-4-consultor-en-desarrollo-de-software)
 
-En el caso de los [Desarrollador de Software Junior](niveles.md#nivel-1-desarrollador-de-software-junior) se buscarán que estén acompañados por un [Desarrollador de Software](niveles.md#nivel-2-desarrollador-de-software) o [Desarrollador de Software Senior](niveles.md#nivel-3-desarrollador-de-software-senior).
+En el caso de los [Desarrollador de Software Junior](niveles.md#nivel-1-desarrollador-de-software-junior) se buscarán que estén acompañados por un [Desarrollador de Software](niveles.md#nivel-2-desarrollador-de-software) o [Desarrollador de Software Senior](niveles.md#nivel-3-desarrollador-de-software-senior) al tener que atender un cliente en sitio.
 
 En el caso del [Consultor en Desarrollo de Software](niveles.md#nivel-4-consultor-en-desarrollo-de-software) generalmente actuará sólo ya que será útil para labores de consultoría.
