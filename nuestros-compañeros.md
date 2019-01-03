@@ -45,7 +45,7 @@ Se entiende que siempre será por necesidad de la empresa. Todos los miembros de
 Toda persona que desea formar parte del equipo debe:
 1. Pasar una entrevista personal con el Gerente y el Líder Técnico.
 1. Pasar una prueba técnica remunerada. Esta prueba tendrá una situación de "mundo real", el tiempo para resolverla será entre 1 ó 2 semanas.
-1. Pasada la prueba técnica, participar de una de las reuniones mensuales del equipo.
+1. Pasada la prueba técnica, participar de una de las reuniones mensuales del equipo para conocer cómo se integra al mismo.
 
 ## ¿Por qué razón alguien puede abandonar el equipo?
 1. Por decisión propia.
