@@ -14,6 +14,7 @@ Para promover la transparencia en el equipo, compartimos para su consulta y vali
 1. Capacidad para interpretar requerimientos técnicos y convertirlos en una funcionalidad dentro de una aplicación.
 1. Debe trabajar bajo supervisión acompañada por otro miembro del equipo con mayor experiencia.
 1. Le responde al equipo.
+1. Debe asistir a reuniones de la comunidad tecnológica de su elección.
 
 ## Nivel 2: Desarrollador de Software
 1. C# para backend. ASP .NET MVC, WebAPI, LinQ y Entity Framework.
@@ -41,6 +42,7 @@ Para promover la transparencia en el equipo, compartimos para su consulta y vali
 1. Le responde al equipo y al cliente.
 1. Comunicación escrita y oral con clientes. Facilidad de redacción y ortografía.
 1. Asiste a reuniones con cliente.
+1. Debe ser un miembro activo en la comunidad tecnológica de su elección.
 
 Certificaciones:
 1. 1 de Nivel 1.
@@ -49,6 +51,11 @@ Certificaciones:
 1. C# para backend. ASP .NET MVC, WebAPI, LinQ y Entity Framework.
 1. Java para backend. Spring Boot.
 1. HTML, Javascript (jQuery y plugins / otra librería) y CSS (Bootstrap / Material Design Lite) para frontend.
+1. Servidores:
+    1. Puede crear un ambiente de instalación para sus aplicaciones on-premise o cloud.
+    1. Tareas básicas de administración en Windows y Linux.
+    1. Deseable: Tareas básicas de administración en Azure y AWS.
+    1. Deseable: Virtualización y contenedores.
 1. Bases de Datos:
     1. SQL DML y DDL.
     1. Manejo de 3 RDBMS (SQL Server, MariaDB, MySQL, Sybase u Oracle).
@@ -78,12 +85,47 @@ Certificaciones:
 1. Puede trabajar sin supervisión. Puede liderar un equipo.
 1. Le responde principalmente al cliente y al equipo.
 1. Asiste, propone y lidera reuniones con cliente.
+1. Puede apoyar en demostraciones técnicas.
 1. Comunicación escrita y oral con clientes. Facilidad de redacción y ortografía.
+1. Debe ser un miembro activo en la comunidad de su elección formando parte del grupo de líderes y expositores.
+
 Certificaciones requeridas:
 1. 2 de Nivel 1.
 1. 1 de Nivel 2.
 
 ## Nivel 4: Consultor en Desarrollo de Software
+1. Uso de las tecnologías Microsoft .NET y JavaEE.
+1. Conocimiento en tecnologías de backend y frontend.
+1. Servidores:
+    1. Puede crear un ambiente de instalación para sus aplicaciones on-premise o cloud.
+    1. Tareas básicas de administración en Windows y Linux.
+    1. Tareas básicas de administración en Azure y AWS.
+    1. Virtualización y contenedores.
+1. Bases de Datos:
+    1. SQL DML y DDL.
+    1. Manejo de diferentes RDBMS (SQL Server, MariaDB, MySQL, Sybase u Oracle).
+    1. Optimización de rendimiento de consultas.
+    1. Tareas básicas de administración: respaldo, restauración, exportacion e importación de datos.
+    1. Creación de reportes sin importar la tecnología.
+    1. ETL con Integration Services y otra herramienta similar.
+    1. Visualización de datos con Power BI y otra herramienta similar.
+1. Pruebas
+    1. Creación de Planes de Pruebas y reportes.
+1. Manejo en Azure DevOps y otra herramienta similar:
+    1. Administración de la plataforma.
+    1. Gestión del equipo.
+    1. Gestión de código fuente.
+    1. Gestión de pruebas.
+    1. Gestión de CI / CD
+1. Documentación, siguiendo los estándares de la empresa o del cliente.
+1. Capacidad para administrar un proyecto de desarrollo de software y cumplir con los objetivos trazados.
+1. Le responde principalmente al cliente y al equipo. Facilidad para tratar diferentes temas con Gerentes y superiores.
+1. Puede brindar asesoría al área de tecnología y negocios basada en su experiencia.
+1. Propone, opina y lidera reuniones con cliente.
+1. Apoya en labores de pre-venta y venta.
+1. Apoya en labores de pre-venta y venta.
+1. Maneja relaciones con comunidades y pares, formando parte del grupo de líderes y expositores.
+
 Certificaciones requeridas:
 1. 2 de Nivel 1.
 1. 2 de Nivel 2.
