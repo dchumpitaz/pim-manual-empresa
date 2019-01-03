@@ -5,7 +5,9 @@ Para promover la transparencia en el equipo, compartimos para su consulta y vali
 ## Nivel 1: Desarrollador de Software Junior
 1. C# para backend. Esto incluye ASP .NET MVC, LinQ y Entity Framework.
 1. HTML, Javascript (jQuery) y CSS (Bootstrap) para frontend.
-1. SQL DML y SQL Server.
+1. Bases de Datos:
+    1. SQL DML.
+    1. SQL Server.
 1. Capacidad para ejecutar un Plan de Pruebas.
 1. Manejo en Azure DevOps:
     1. Crear tareas y moverlos a través del tablero Kanban.
@@ -17,8 +19,11 @@ Para promover la transparencia en el equipo, compartimos para su consulta y vali
 1. C# para backend. ASP .NET MVC, WebAPI, LinQ y Entity Framework.
 1. Deseable: Java para backend. Spring Boot.
 1. HTML, Javascript (jQuery y plugins / otra librería) y CSS (Bootstrap / Material Design Lite) para frontend.
-1. SQL DML y DDL. SQL Server y MariaDB / MySQL.
-1. Creación de reportes usando HTML, Reporting Services, Crystal Reports o Jasper Reports.
+1. Bases de Datos:
+    1. SQL DML y DDL.
+    1. Manejo de 2 RDBMS (SQL Server, MariaDB, MySQL, Sybase u Oracle).
+    1. Creación de reportes usando HTML, Reporting Services, Crystal Reports o Jasper Reports.
+    1. ETL con Integration Services.
 1. Pruebas:
     1. Unitarias.
     1. Funcionales en base a los requerimientos recibidos.
@@ -32,9 +37,10 @@ Para promover la transparencia en el equipo, compartimos para su consulta y vali
     1. Manual técnico
     1. Manual de usuario
 1. Capacidad para interpretar requerimientos funcionales, obtener tareas y convertirlos en una funcionalidad dentro de una aplicación.
-1. Ya puede trabajar sin supervisión.
+1. Puede trabajar con poca supervisión.
 1. Le responde al equipo y al cliente.
 1. Comunicación escrita y oral con clientes. Facilidad de redacción y ortografía.
+1. Asiste a reuniones con cliente.
 
 Certificaciones:
 1. 1 de Nivel 1.
@@ -45,7 +51,7 @@ Certificaciones:
 1. HTML, Javascript (jQuery y plugins / otra librería) y CSS (Bootstrap / Material Design Lite) para frontend.
 1. Bases de Datos:
     1. SQL DML y DDL.
-    1. Manejo de 3 RDBMS (SQL Server, MariaDB, MySQL, Sybase, Oracle).
+    1. Manejo de 3 RDBMS (SQL Server, MariaDB, MySQL, Sybase u Oracle).
     1. Optimización de rendimiento de consultas.
     1. Tareas básicas de administración: respaldo, restauración, exportacion e importación de datos.
     1. Creación de reportes usando HTML, Reporting Services, Crystal Reports o Jasper Reports.
@@ -56,6 +62,23 @@ Certificaciones:
     1. Funcionales en base a los requerimientos recibidos.
     1. Creación de Plan de Pruebas
     1. Exploratorias en base a su experiencia.
+1. Manejo en Azure DevOps:
+    1. Crear product backlog items. Crear tareas y moverlos a través del tablero Kanban.
+    1. Crear proyectos y sprints.
+    1. Crear repositorios de código fuente.
+    1. Crear CI / CD
+    1. Administración de la plataforma.
+1. Documentación, siguiendo los estándares de la empresa o del cliente:
+    1. Manual de instalación
+    1. Manual técnico
+    1. Manual de usuario
+    1. Minutas de reunión
+    1. Informes
+1. Capacidad para obtener, interpretar, asignar y supervisar requerimientos funcionales. Facilitar la creación de tareas técnicas y convertirlas en una aplicación.
+1. Puede trabajar sin supervisión. Puede liderar un equipo.
+1. Le responde principalmente al cliente y al equipo.
+1. Asiste, propone y lidera reuniones con cliente.
+1. Comunicación escrita y oral con clientes. Facilidad de redacción y ortografía.
 Certificaciones requeridas:
 1. 2 de Nivel 1.
 1. 1 de Nivel 2.
