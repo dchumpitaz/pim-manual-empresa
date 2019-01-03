@@ -86,6 +86,7 @@ Certificaciones:
 1. Le responde principalmente al cliente y al equipo.
 1. Asiste, propone y lidera reuniones con cliente.
 1. Puede apoyar en demostraciones técnicas.
+1. Puede dictar cursos de desarrollo y asesorías relacionadas.
 1. Comunicación escrita y oral con clientes. Facilidad de redacción y ortografía.
 1. Debe ser un miembro activo en la comunidad de su elección formando parte del grupo de líderes y expositores.
 
@@ -124,6 +125,7 @@ Certificaciones requeridas:
 1. Propone, opina y lidera reuniones con cliente.
 1. Apoya en labores de pre-venta y venta.
 1. Apoya en labores de pre-venta y venta.
+1. Puede dictar cursos especializados en las plataformas de nuestros socios y asesorías relacionadas.
 1. Maneja relaciones con comunidades y pares, formando parte del grupo de líderes y expositores.
 
 Certificaciones requeridas:
