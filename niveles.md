@@ -45,7 +45,7 @@ Para promover la transparencia en el equipo, compartimos para su consulta y vali
 1. Debe ser un miembro activo en la comunidad tecnológica de su elección.
 
 Certificaciones:
-1. 1 de [Nivel 1](certificaciones-utiles.md#nivel-1).
+1. Una (1) de [Nivel 1](certificaciones-utiles.md#nivel-1).
 
 ## Nivel 3: Desarrollador de Software Senior
 1. C# para backend. ASP .NET MVC, WebAPI, LinQ y Entity Framework.
@@ -90,8 +90,8 @@ Certificaciones:
 1. Debe ser un miembro activo en la comunidad de su elección formando parte del grupo de líderes y expositores.
 
 Certificaciones requeridas:
-1. 2 de Nivel 1.
-1. 1 de Nivel 2.
+1. Dos (2) de [Nivel 1](certificaciones-utiles.md#nivel-1).
+1. Una (1) de [Nivel 2](certificaciones-utiles.md#nivel-2).
 
 ## Nivel 4: Consultor en Desarrollo de Software
 1. Uso de las tecnologías Microsoft .NET y JavaEE.
@@ -127,6 +127,6 @@ Certificaciones requeridas:
 1. Maneja relaciones con comunidades y pares, formando parte del grupo de líderes y expositores.
 
 Certificaciones requeridas:
-1. 2 de Nivel 1.
-1. 2 de Nivel 2.
-1. 1 de Nivel 3.
+1. Dos (2) de [Nivel 1](certificaciones-utiles.md#nivel-1).
+1. Dos (2) de [Nivel 2](certificaciones-utiles.md#nivel-2).
+1. Una (1) de [Nivel 3](certificaciones-utiles.md#nivel-3).
