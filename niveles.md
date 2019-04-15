@@ -120,12 +120,11 @@ Certificaciones requeridas:
     1. Gestión de pruebas.
     1. Gestión de CI / CD
 1. Documentación, siguiendo los estándares de la empresa o del cliente.
-1. Capacidad para evaluar arquitecturas y brindas opinión acerca de la misma.
+1. Capacidad para evaluar arquitecturas y brindar opinión acerca de la misma.
 1. Capacidad para administrar un proyecto de desarrollo de software y cumplir con los objetivos trazados.
 1. Le responde principalmente al cliente y al equipo. Facilidad para tratar diferentes temas con Gerentes y superiores.
 1. Puede brindar asesoría al área de tecnología y negocios basada en su experiencia.
 1. Propone, opina y lidera reuniones con cliente.
-1. Apoya en labores de pre-venta y venta.
 1. Apoya en labores de pre-venta y venta.
 1. Puede dictar cursos especializados en las plataformas de nuestros socios y asesorías relacionadas.
 1. Maneja relaciones con comunidades y pares, formando parte del grupo de líderes y expositores.
