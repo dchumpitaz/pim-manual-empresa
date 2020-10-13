@@ -1,0 +1,11 @@
+Como parte de nuestras políticas de desarrollo, debemos:
+No enviar información de la excepción al usuario.
+  - Sí: “Ha ocurrido un error, este es el identificador” (esto ya está configurado en el ELMAH).
+  - No: “SQLException: No connection with user ‘sa’”.
+En la aplicación web se debe mostrar la versión del assembly y es responsabilidad del desarrollador incrementarla cada vez que hace una instalación o entrega.
+ - Esto ayudará a los usuarios saber que están accediendo a la última versión.
+ - Les dará tranquilidad a los desarrolladores que los pases se realizaron satisfactoriamente.
+ - Los errores podrán ser localizados.
+Nuestras aplicaciones web basadas en ASP .NET deben estar preparadas para ser instaladas en IIS como:
+  - Sitio web
+  - Aplicación web
