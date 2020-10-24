@@ -1,0 +1,13 @@
+Como parte de nuestras políticas de desarrollo, debemos:
+
+1. No enviar información de la excepción al usuario.
+- Sí: “Ha ocurrido un error, este es el identificador” (esto ya está configurado en el ELMAH).
+- No: “SQLException: No connection with user ‘sa’”.
+En la aplicación web se debe mostrar la versión del assembly y es responsabilidad del desarrollador incrementarla cada vez que hace una instalación o entrega.
+- Esto ayudará a los usuarios saber que están accediendo a la última versión.
+- Les dará tranquilidad a los desarrolladores que los pases se realizaron satisfactoriamente.
+- Los errores podrán ser localizados.
+
+2. Utilicen siempre las versiones estables de las librerías, sobretodo con proyectos de clientes. Con los clientes no se experimenta.
+
+3. Antes de completar un proyecto, deben enviar una serie de screenshots de las aplicaciones que están haciendo.
