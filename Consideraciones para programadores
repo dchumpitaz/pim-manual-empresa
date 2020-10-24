@@ -8,6 +8,7 @@ En la aplicación web se debe mostrar la versión del assembly y es responsabili
 - Les dará tranquilidad a los desarrolladores que los pases se realizaron satisfactoriamente.
 - Los errores podrán ser localizados.
 
-2. Utilicen siempre las versiones estables de las librerías, sobretodo con proyectos de clientes. Con los clientes no se experimenta.
+2. Utilicen siempre las versiones estables de las librerías, sobretodo con proyectos de clientes. 
+   Con los clientes no se experimenta.
 
 3. Antes de completar un proyecto, deben enviar una serie de screenshots de las aplicaciones que están haciendo.
